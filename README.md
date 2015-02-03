@@ -1,1 +1,1 @@
-# Starting to lean scala
+# Starting to learn scala
